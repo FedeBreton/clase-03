@@ -1,0 +1,21 @@
+header {
+  text-align: center;
+  background-color: lightgrey;
+  margin-bottom: 80px;
+}
+header h1 {
+  background-color: gray;
+}
+h2 {
+  background-color: gray;
+}
+.sin-punto {
+  list-style: none;
+}
+.sangria {
+  margin-left: 78px;
+}
+footer {
+  background-color: darkcyan;
+  margin-top: 80px;
+}
